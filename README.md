@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/KhalidImran57/instagram_clone/blob/158b0956212743d200be0f60666c5d74d076c43e/1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/KhalidImran57/Tic_Tac_toe_Game/blob/3c459cfa27f2c3d5abfb7280ce2a78d4c3f6b4be/1.PNG" alt="App Screenshot 1" width="200" style="margin: 10px;"/>
   <img src="https://github.com/KhalidImran57/instagram_clone/blob/de5327248ee12fe0a5f1809f1e87ef781f22aee4/2.PNG" alt="App Screenshot 2" width="200" style="margin: 10px;"/>
 
 </p>
